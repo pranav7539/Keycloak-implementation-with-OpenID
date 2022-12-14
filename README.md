@@ -2,5 +2,5 @@
 
 Run Keycloak-implement Application :
 
-    cd keycloak-implement/
+    cd keycloak-implementation-with-OpenID/
     mvn spring-boot:run
